@@ -1,0 +1,1 @@
+This is a simple To-Do List App designed to help users organize their tasks efficiently. The app provides a clean and intuitive interface to add, edit, and delete tasks, making it easy for users to stay on top of their daily activities.
